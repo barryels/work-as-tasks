@@ -44,6 +44,13 @@ Which is an impossible question to answer with perfect accuracy, but, we can cer
 Most organisations have a lack of knowledge around employee skills. This manifests itself as projects that run over budget/time, leading to unnecessary loss in revenue, negative brand reputation and overall stress on the business and its employees. Businesses that utilise knowledge workers in order to function, generally know very little about what knowledge their employees have and how they practically implement that knowledge.
 
 
+### History
+
+This is not a novel idea, but rather a combination of multiple ideas and implementations that already exist.
+Ascribing abilities to specific people is a millennia-old concept, or at least as old as when some cultures created family names to disambiguate between people, e.g. `Schumacher` (Shoe maker).
+
+
+
 ### Solution Success Criteria
 
 We should be able to answer all of these questions:
