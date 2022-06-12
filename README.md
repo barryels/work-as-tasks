@@ -49,6 +49,7 @@ Most organisations have a lack of knowledge around employee skills. This manifes
 This is not a novel idea, but rather a combination of multiple ideas and implementations that already exist.
 Ascribing abilities to specific people is a millennia-old concept, or at least as old as when some cultures created family names to disambiguate between people, e.g. `Schumacher` (Shoe maker).
 
+Personally, I think the kernel of this approach started in the early 2000's, where I happened on Microsoft's consulting practice, where they would attempt to help organisations map their capabilities to technology, ostensibly as a means to replace or augment at least some of the business's outdated technologies (fax, call centre, etc.) with one of their products.
 
 
 ### Solution Success Criteria
